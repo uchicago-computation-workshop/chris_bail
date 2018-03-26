@@ -54,7 +54,14 @@ output:
 
 <p class=footertext2>
 
-**Chris Bail** TBD
+**Chris Bail** is the Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy at Duke. His research examines how non-profit organizations and other political actors shape public opinion about controversial social issues by analyzing large groups of texts from newspapers, television, public opinion surveys, and social media sites such as Facebook and Twitter.
+
+
+His research has been published by Princeton University Press, the Proceedings of the National Academy of Sciences, the American Sociological Review, and other leading publications. In 2017, he was one of 30 academics recognized by a prestigious Andrew Carnegie Fellowship. His work has also been recognized by awards from the American Sociological Association, the Association for Research on Non-Profit Organizations and Voluntary Action, the Society for the Scientific Study of Religion, and the Society for Study of Social Problems, and supported by the National Science Foundation, the Robert Wood Johnson Foundation, and the Russell Sage Foundation. His research has also been covered by major media outlets such as NBC News, National Public Radio, and the Washington Post.
+
+Chris is also passionate about training the next generation of computational social scientists. He is the co-organizer of the 2017 Summer Institute in Computational Social Science at Princeton University and a founding member of Duke's Interdisciplinary Data Science Program.
+
+Dr. Bail is currently studying the community-level predictors of violent extremism using Google search data, and how social networks influence political polarization on Twitter.
 </p>
 
 
