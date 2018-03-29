@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/chris_bail/blob/master/2018__bail__tbd_na_na.pdf" >TBD</a>
+  <a href="https://github.com/uchicago-computation-workshop/chris_bail/blob/master/2018__bail__exposure_to_opposing_views.pdf" >Exposure to Opposing Views can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media</a>
 </h2>
 
 <br>
@@ -37,7 +37,7 @@ output:
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** There is mounting concern that social media sites contribute to political polarization by creating “echo chambers” that insulate people from opposing views about current events. We surveyed a large sample of Democrats and Republicans who visit Twitter at least three times each week about a range of social policy issues. One week later, we randomly assigned respondents to a treatment condition in which they were offered financial incentives to follow a Twitter bot for one month that exposed them to messages produced by elected officials, organizations, and other opinion leaders with opposing political ideologies. Respondents were re-surveyed at the end of the month to measure the effect of this treatment, and at regular intervals throughout the study period to monitor treatment compliance. We find that Republicans who followed a liberal Twitter bot became substantially more conservative post-treatment, and Democrats who followed a conservative Twitter bot became slightly more liberal post-treatment. These findings have important implications for the interdisciplinary literature on political polarization as well as the emerging field of computational social science.
 </p>
 
 <br>
@@ -48,7 +48,7 @@ output:
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by TBD.</p>
+<p class=pfblock-header3>A light lunch will be provided by Good Earth Catering Company.</p>
 
 <br><br>
 

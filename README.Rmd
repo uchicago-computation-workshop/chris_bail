@@ -11,10 +11,10 @@ output:
 library(stringr)
 
 date <- "4/5/2018"
-vendor <- "TBD"
-title <- "TBD"
-file_title <- "TBD"
-short_title_n = 3
+vendor <- "Good Earth Catering Company"
+title <- "Exposure to Opposing Views can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media"
+file_title <- "Exposure to Opposing Views"
+short_title_n = 4
 speaker <- "Chris Bail"
 department <- "Douglas and Ellen Lowey Associate Professor of Sociology and Public Policy"
 university <- "Duke University"
@@ -105,7 +105,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** There is mounting concern that social media sites contribute to political polarization by creating “echo chambers” that insulate people from opposing views about current events. We surveyed a large sample of Democrats and Republicans who visit Twitter at least three times each week about a range of social policy issues. One week later, we randomly assigned respondents to a treatment condition in which they were offered financial incentives to follow a Twitter bot for one month that exposed them to messages produced by elected officials, organizations, and other opinion leaders with opposing political ideologies. Respondents were re-surveyed at the end of the month to measure the effect of this treatment, and at regular intervals throughout the study period to monitor treatment compliance. We find that Republicans who followed a liberal Twitter bot became substantially more conservative post-treatment, and Democrats who followed a conservative Twitter bot became slightly more liberal post-treatment. These findings have important implications for the interdisciplinary literature on political polarization as well as the emerging field of computational social science.
 </p>
 
 <br>
